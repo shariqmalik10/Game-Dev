@@ -1,2 +1,6 @@
 # designosouls
-FIT2099 S2 2021 Assignment
+
+## Introduction 
+This is a game developed using Java. We use essential software engineering principles such as DRY, OCP (Open/Close Principle), SRP etc to ensure that the code is readble and organized. 
+
+
